@@ -1,4 +1,4 @@
-# DevPilot
+# CodeCompass
 
 **Chat with your GitHub codebase using retrieval-augmented generation (RAG).**
 
